@@ -27,7 +27,7 @@ android {
         buildConfig = true
     }
     androidResources {
-        enable = false
+        enable = true
     }
     defaultConfig {
         minSdk = 1
