@@ -27,7 +27,7 @@ android {
         buildConfig = true
     }
     androidResources {
-        enable = false
+        enable = true
     }
     defaultConfig {
         minSdk = 1
@@ -147,4 +147,4 @@ publish {
             url = "https://github.com/LSPosed/AndroidHiddenApiBypass"
         }
     }
-} .
+} 
