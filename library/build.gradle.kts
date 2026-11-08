@@ -147,4 +147,4 @@ publish {
             url = "https://github.com/LSPosed/AndroidHiddenApiBypass"
         }
     }
-} .
+} 
