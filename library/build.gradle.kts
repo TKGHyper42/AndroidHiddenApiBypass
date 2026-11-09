@@ -17,6 +17,7 @@ plugins {
     signing
 }
 
+
 android {
     enableKotlin = false
     compileSdk = 37
